@@ -1,5 +1,6 @@
-# Display!
-Welcome to the Display! source code repository. 
+# display!
+Welcome to the **display!** source code repository. 
 
 ## Introduction
-Display! is a web based application that help users find and explore local vendor listings.
+**display!** publish, find and explore local vendor listings.
+    
